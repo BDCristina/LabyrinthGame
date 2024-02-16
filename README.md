@@ -14,8 +14,8 @@ The Labyrinth Game is a simple application written in Python using the Pygame li
 
 ## 📚 Technologies | Frameworks | Tools:
 
-Python 3.11 version
-Pygame library
+- Python 3.11 version
+- Pygame library
 
 ## 🎮 How to Play:
 
