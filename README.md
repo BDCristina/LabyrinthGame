@@ -1,18 +1,24 @@
-# Joc de Labirint
+# The Labyrinth Game
 
-Un joc de labirint simplu scris în Python folosind Pygame.
+The Labyrinth Game is a simple application written in Python using the Pygame library. It provides an interactive and engaging experience for users by allowing them to explore and navigate through a virtual labyrinth.
+
 ![](../Screenshot 2024-01-09 at 14.32.54.png)
 
 
-## Instalare
+## 📝 Installation
 
-1. Descarcă sau clonează acest repositoriu pe computerul tău.
-2. Instalează Python (dacă nu este deja instalat).
-3. Instalează Pygame folosind `pip install pygame`.
-4. Rulează `python main.py` pentru a începe jocul.
+1. Download or clone this repository to your computer.
+2. Install Python (if not already installed).
+3. Install Pygame using `pip install pygame`.
+4. Run `python main.py` to start the game
 
-## Cum să Joci
+## 📚 Technologies | Frameworks | Tools:
 
-- Folosește tastele săgeți pentru a naviga jucătorul prin labirint.
-- Scopul este să ajungi la punctul final al labirintului.
-- Dacă ajungi la final, vei primi o întrebare pentru a juca din nou sau a ieși.
+Python 3.11 version
+Pygame library
+
+## 🎮 How to Play:
+
+- Use the arrow keys to navigate the player through the labyrinth.
+- The objective of the game is to reach the final point of the labyrinth.
+- Quick and easy order placement.
